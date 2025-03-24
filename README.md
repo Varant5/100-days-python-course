@@ -4,7 +4,7 @@
 
 ## 🚀 About the Course
 
-Welcome to the 100 Days of Code: The Complete Python Pro Bootcamp! This is an intensive, hands-on course designed to take you from a beginner to an advanced Python programmer through daily coding challenges and real-world projects.
+The 100 Days of Code: The Complete Python Pro Bootcamp! This is an intensive, hands-on course with daily coding challenges and real-world projects.
 
 ## 📚 What You'll Learn
 
@@ -17,7 +17,7 @@ Welcome to the 100 Days of Code: The Complete Python Pro Bootcamp! This is an in
 
 ## 🏆 Course Structure
 
-Each day, you'll complete a new coding challenge that builds on your skills. The curriculum includes:
+The curriculum includes:
 
 📅 Days 1-14 → Python basics & fundamental concepts  
 📅 Days 15-30 → Intermediate Python & OOP  
