@@ -27,11 +27,7 @@ turtle.shape(image)
 while len(correct_answer) < 50:
     answer_state = screen.textinput(title=f"{point}/50 States correct", prompt="What's another state's name? ")
     if answer_state == "quit":
-        missing_states = []
-
-        for s in states:
-            if s not in correct_answer:
-                missing_states.append(s)
+        missing_states = [item for item in states if item not in correct_answer]
 
         df = pandas.DataFrame(missing_states)
         df.to_csv("test.csv")
